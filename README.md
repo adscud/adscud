@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adscud&layout=compact)
+
+ 
+![ADSCUD STATS](https://github-readme-stats.vercel.app/api?username=adscud&show_icons=true&theme=tokyonight&count_private=true)  
+
+![ADSCUD CONTRIBUTION](https://activity-graph.herokuapp.com/graph?username=adscud&theme=react-dark&area=true&count_private=true)
+
 <!--
 **adscud/adscud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
