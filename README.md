@@ -1,11 +1,14 @@
-### Hi there 👋
+<p align="center">
+ <img height="300" src="./sapiens.svg" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adscud&layout=compact)
-
+### Yo 👋
  
 ![ADSCUD STATS](https://github-readme-stats.vercel.app/api?username=adscud&show_icons=true&theme=tokyonight&count_private=true)  
 
-![ADSCUD CONTRIBUTION](https://activity-graph.herokuapp.com/graph?username=adscud&theme=react-dark&area=true&count_private=true)
+<p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=adscud&theme=react-dark&area=true&count_private=true" />
+</p>
 
 <!--
 **adscud/adscud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
